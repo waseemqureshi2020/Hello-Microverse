@@ -1,3 +1,8 @@
-This project is [MIT](./LICENSE) licensed.
+In this file you can find useful information about this project.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+* This project has a home page called index.html where you can see a greeting message "Hello Microverse" in blue color.
+
+* There is a styles.css file which contains style properties for the H1 header element.
+
+* There is a file named .gitignore which ignores unnecessary files from this project.
+
